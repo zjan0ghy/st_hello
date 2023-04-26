@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-
+pages/page_2.py
 st.title('Uber 픽 업 !!')
 
 chart_data = pd.DataFrame(
