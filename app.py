@@ -1,7 +1,10 @@
 import streamlit as st
+
+st.markdown("# Page 2 ❄️")
+st.sidebar.markdown("# Page 2 ❄️")
 import pandas as pd
 import numpy as np
-pages/page_2.py
+
 st.title('Uber 픽 업 !!')
 
 chart_data = pd.DataFrame(
