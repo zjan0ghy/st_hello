@@ -6,4 +6,4 @@ plotly
 seaborn
 matplotlib
 koreanize-matplotlib
-datetime
+beautifulsoup4
